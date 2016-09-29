@@ -1,7 +1,7 @@
 body {
     font-family: sans-serif;
     background-color: lightgrey;
-    margin-top: 75px;
+    margin-top: 750px;
 }
 
 .center {
@@ -9,7 +9,7 @@ body {
 }
 
 .text-big {
-    font-size: 300%;
+    font-size: 30%;
 }
 
 .bold {
@@ -17,6 +17,6 @@ body {
 }
 
 .img-medium {
-    height: 200px;
+    height: 2000px;
 }
 
