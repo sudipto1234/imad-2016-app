@@ -9,12 +9,12 @@ app.get('/', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'index.html'));
 });
 
-app.get('/ui/artica-one.html', function (req, res) {
-  res.sendFile(path.join(__dirname, 'ui', 'artica-one.html'));
+app.get('/ui/artical-one.html', function (req, res) {
+  res.sendFile(path.join(__dirname, 'ui', 'artical-one.html'));
 });
 
-app.get('/ui/artica-two.html', function (req, res) {
-  res.sendFile(path.join(__dirname, 'ui', 'artica-two.html'));
+app.get('/ui/artical-two.html', function (req, res) {
+  res.sendFile(path.join(__dirname, 'ui', 'artical-two.html'));
 });
 
 app.get('/ui/style.css', function (req, res) {
